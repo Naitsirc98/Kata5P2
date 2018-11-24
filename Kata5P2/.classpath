@@ -4,5 +4,6 @@
 	<classpathentry kind="src" path="src"/>
 	<classpathentry kind="lib" path="D:/GitHub/Kata5P2/Kata5P2/src/dependencies/jcommon-1.0.23.jar"/>
 	<classpathentry kind="lib" path="D:/GitHub/Kata5P2/Kata5P2/src/dependencies/jfreechart-1.0.19.jar"/>
+	<classpathentry kind="lib" path="D:/GitHub/Kata5P2/Kata5P2/src/dependencies/sqlite-jdbc-3.23.1.jar"/>
 	<classpathentry kind="output" path="bin"/>
 </classpath>
